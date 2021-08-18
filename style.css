@@ -1,0 +1,79 @@
+/*---------------------------------------- over write css--------------------------------------
+-----------------------------------------------------------------------------------------------*/
+
+/* top part over-write  */
+
+.cbr-bg-color {
+    background-color: #264653;
+}
+
+.bike-information {
+    font-size: 16px;
+    font-weight: 300;
+    color: #E0E0E0;
+}
+
+.header-font {
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.btn-color {
+    background-color: #E76F51;
+}
+
+/* ---------------------------
+      feature bikes part
+------------------------------*/
+
+.feature-first-line {
+    font-size: 48px;
+    font-weight: 600;
+    margin-top: 64px;
+}
+
+.feature-second-line {
+    font-size: 14px;
+    font-weight: 600;
+    color: #E76F51;
+    margin-bottom: 120px;
+}
+
+.image-grayscale img {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+/* ----------------------
+    happy-client-part
+-------------------------*/
+
+.happy-client-header {
+    font-size: 48px;
+    font-weight: 600;
+    margin-top: 100px;
+    margin-bottom: 52px;
+}
+
+.happy-client-header span {
+    color: #E76F51;
+}
+
+.image-style img {
+    height: 149px;
+    width: 149px;
+    margin-top: 40px;
+}
+
+.rating i {
+    color: #E77C40;
+}
+
+/* ----------------
+   subscribe part
+ ------------------*/
+
+.subscribe-style {
+    height: 220px;
+}
